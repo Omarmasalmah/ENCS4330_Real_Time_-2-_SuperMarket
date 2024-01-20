@@ -13,6 +13,10 @@ This project simulates the behavior of a supermarket with shelving teams and cus
 - Random customer arrivals and product selections.
 - Termination conditions based on stock availability and simulation duration.
 
+## Screenshot 
+![image](https://github.com/Omarmasalmah/ENCS4330_Real_Time_-2-_SuperMarket/assets/112338255/7e090e2f-e99b-47ce-ac94-4bc6a38bcf7e)
+
+
 ## Features
 
 - Realtime
