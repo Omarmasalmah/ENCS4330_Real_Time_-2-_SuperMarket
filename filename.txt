@@ -1,0 +1,6 @@
+Number of products:5
+Number of shelving teams:5
+Number of employes per team:4
+Customer Arrival Max:3000
+Customer Arrival Min:1000
+Max wait time:1
