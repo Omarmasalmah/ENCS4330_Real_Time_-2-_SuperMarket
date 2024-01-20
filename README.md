@@ -1,5 +1,4 @@
 # Supermarket Product Shelving Simulation
-<s>
 
 A combined multi-processing and multi-threading simulation of a supermarket where employees place products on shelves and customers interact with the shelves.
 
